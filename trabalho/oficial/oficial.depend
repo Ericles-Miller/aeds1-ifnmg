@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1533414768 source:c:\users\Éricles\documents\faculdade\aeds1\trabalho\oficial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"Cliente.h"
+	<locale.h>
+
+1533414768 c:\users\Éricles\documents\faculdade\aeds1\trabalho\oficial\cliente.h
+	<stdio.h>
+
+1533414768 source:c:\users\Éricles\documents\faculdade\aeds1\trabalho\oficial\ingrediente.c
+	<stdio.h>
+	<stdlib.h>
+	"ingrediente.h"
+
+1533414768 c:\users\Éricles\documents\faculdade\aeds1\trabalho\oficial\ingrediente.h
+	<stdio.h>
+	<stdlib.h>
+
+1533441942 source:c:\users\Éricles\documents\faculdade\aeds1\trabalho\oficial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"Cliente.h"
+
+1533414768 c:\users\Éricles\documents\faculdade\aeds1\trabalho\oficial\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1533414774 source:c:\users\Éricles\documents\faculdade\aeds1\trabalho\oficial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"menu.h"
+	"Cliente.h"
+	"ingrediente.h"
+
+1533441253 source:c:\users\Éricles\documents\faculdade\aeds1\trabalho\oficial\pedido.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<string.h>
+	"ingrediente.h"
+	"pedido.h"
+
+1533441376 c:\users\Éricles\documents\faculdade\aeds1\trabalho\oficial\pedido.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1533435948 source:c:\users\Éricles\documents\faculdade\aeds1\trabalho\oficial\relatorio_estoque.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"relatorio_estoque.h"
+	"ingrediente.h"
+
+1533414768 c:\users\Éricles\documents\faculdade\aeds1\trabalho\oficial\relatorio_estoque.h
+	<stdio.h>
+	<stdlib.h>
+

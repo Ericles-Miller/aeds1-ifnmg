@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1548952964 source:d:\ifnmg\professor\disciplinas\2018-2\aeds i\exercícios\lista 7 - arquivos\exercicio8\banco.c
+	<stdio.h>
+	"banco.h"
+
+1548952805 d:\ifnmg\professor\disciplinas\2018-2\aeds i\exercícios\lista 7 - arquivos\exercicio8\banco.h
+
+1548952853 source:d:\ifnmg\professor\disciplinas\2018-2\aeds i\exercícios\lista 7 - arquivos\exercicio8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"banco.h"
+

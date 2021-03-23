@@ -1,0 +1,185 @@
+# depslib dependency file v1.0
+1533251940 source:c:\users\Éricles\documents\faculdade\aeds1\trabalho\amem\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"Cliente.h"
+	<locale.h>
+
+1533251940 c:\users\Éricles\documents\faculdade\aeds1\trabalho\amem\cliente.h
+	<stdio.h>
+
+1533251940 source:c:\users\Éricles\documents\faculdade\aeds1\trabalho\amem\ingrediente.c
+	<stdio.h>
+	<stdlib.h>
+	"ingrediente.h"
+
+1533251940 c:\users\Éricles\documents\faculdade\aeds1\trabalho\amem\ingrediente.h
+	<stdio.h>
+	<stdlib.h>
+
+1533251938 source:c:\users\Éricles\documents\faculdade\aeds1\trabalho\amem\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"menu.h"
+	"Cliente.h"
+	"ingrediente.h"
+
+1533251940 c:\users\Éricles\documents\faculdade\aeds1\trabalho\amem\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1533251940 source:c:\users\Éricles\documents\faculdade\aeds1\trabalho\amem\pedido.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"ingrediente.h"
+	"pedido.h"
+
+1533251940 c:\users\Éricles\documents\faculdade\aeds1\trabalho\amem\pedido.h
+	<stdio.h>
+	<stdlib.h>
+
+1533269998 source:c:\users\Éricles\documents\faculdade\aeds1\trabalho\amem\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"Cliente.h"
+
+1533290046 source:c:\users\cauã\desktop\amem-20180803t230428z-001\amem\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"Cliente.h"
+	<locale.h>
+
+1533290046 c:\users\cauã\desktop\amem-20180803t230428z-001\amem\cliente.h
+	<stdio.h>
+
+1533428116 source:c:\users\cauã\desktop\amem-20180803t230428z-001\amem\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"Cliente.h"
+
+1533290052 c:\users\cauã\desktop\amem-20180803t230428z-001\amem\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1533427750 source:c:\users\cauã\desktop\amem-20180803t230428z-001\amem\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"menu.h"
+	"Cliente.h"
+	"ingrediente.h"
+
+1533427835 c:\users\cauã\desktop\amem-20180803t230428z-001\amem\ingrediente.h
+	<stdio.h>
+	<stdlib.h>
+
+1533428533 source:c:\users\cauã\desktop\amem-20180803t230428z-001\amem\pedido.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<string.h>
+	"ingrediente.h"
+	"pedido.h"
+
+1533427557 c:\users\cauã\desktop\amem-20180803t230428z-001\amem\pedido.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1533427943 source:c:\users\cauã\desktop\amem-20180803t230428z-001\amem\ingrediente.c
+	<stdio.h>
+	<stdlib.h>
+	"ingrediente.h"
+
+1533409797 source:c:\users\cauã\desktop\amem-20180803t230428z-001\amem\relatorio_estoque.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"relatorio_estoque.h"
+	"ingrediente.h"
+
+1533290050 c:\users\cauã\desktop\amem-20180803t230428z-001\amem\relatorio_estoque.h
+	<stdio.h>
+	<stdlib.h>
+
+1533407012 source:c:\users\cauã\desktop\amem-20180803t230428z-001\amem\relatorio_de_gastos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"relatorio_de_gastos.h"
+	"pedido.h"
+	"Cliente.h"
+
+1533407130 c:\users\cauã\desktop\amem-20180803t230428z-001\amem\relatorio_de_gastos.h
+	<stdio.h>
+	<stdlib.h>
+
+1533414768 source:c:\users\Éricles\documents\faculdade\aeds1\trabalho novo\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"Cliente.h"
+	<locale.h>
+
+1533414768 c:\users\Éricles\documents\faculdade\aeds1\trabalho novo\cliente.h
+	<stdio.h>
+
+1533414768 source:c:\users\Éricles\documents\faculdade\aeds1\trabalho novo\ingrediente.c
+	<stdio.h>
+	<stdlib.h>
+	"ingrediente.h"
+
+1533414768 c:\users\Éricles\documents\faculdade\aeds1\trabalho novo\ingrediente.h
+	<stdio.h>
+	<stdlib.h>
+
+1533414774 source:c:\users\Éricles\documents\faculdade\aeds1\trabalho novo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"Cliente.h"
+
+1533414768 c:\users\Éricles\documents\faculdade\aeds1\trabalho novo\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1533414774 source:c:\users\Éricles\documents\faculdade\aeds1\trabalho novo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"menu.h"
+	"Cliente.h"
+	"ingrediente.h"
+
+1533414774 source:c:\users\Éricles\documents\faculdade\aeds1\trabalho novo\pedido.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<string.h>
+	"ingrediente.h"
+	"pedido.h"
+
+1533414768 c:\users\Éricles\documents\faculdade\aeds1\trabalho novo\pedido.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1533435948 source:c:\users\Éricles\documents\faculdade\aeds1\trabalho novo\relatorio_estoque.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"relatorio_estoque.h"
+	"ingrediente.h"
+
+1533414768 c:\users\Éricles\documents\faculdade\aeds1\trabalho novo\relatorio_estoque.h
+	<stdio.h>
+	<stdlib.h>
+

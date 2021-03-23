@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+float media(float a, float b, float c);
+
+int main()
+{
+    float n1,n2,n3,r;
+    printf("Digite tres notas: ");
+    scanf("%f%f%f",&n1,&n2,&n3);
+    r = media(n1,n2,n3);
+    printf("Media: %.2f\n",r);
+    return 0;
+}
+
+float media(float a, float b, float c)
+{
+    float m;
+    m = (a+b+c)/3;
+    return m;
+}

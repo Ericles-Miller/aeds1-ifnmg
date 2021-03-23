@@ -1,0 +1,81 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<locale.h>
+
+float relatorio_gasto()///parametro a ser passado
+{
+    int i;
+    float soma=0;
+    FILE *file_relat;
+
+    if((p = fopen("aluno.bin", "a+b")) == NULL)
+    {
+        printf("Arquivo nao pode ser aberto\n");
+    }
+    else
+    {
+
+        printf(file_relat,"A quantidade de pizzas é: %i\n",); /// struct e var da quant. de pizza
+
+        if (quant.de.pizz >1) ///colocar a var certa
+        {
+            for (i=1; i<=quant.de.pizz; i++)/// colocar a var certa
+            {
+                if (pizza == 'gigante')
+                {
+                    printf(file_relat,"Preço da pizza gigante: %.2f\n",); /// preço da pizza
+                }
+                 else if (pizza == 'media')
+                {
+                    printf(file_relat,"Preço da pizza média: %.2f\n",); /// preço da pizza
+                }
+                 else if (pizza == 'pequena')
+                {
+                    printf(file_relat,"Preço da pizza pequena: %.2f\n",); /// preço da pizza
+                }
+
+                printf(file_relat,"Preço do ingrediente 1: %.2f\n",var); /// preço do igrediente
+                printf(file_relat,"Preço do ingrediente 2: %.2f\n",var); /// preço do igrediente
+                printf(file_relat,"Preço do ingrediente 3: %.2f\n",var); /// preço do igrediente
+                printf(file_relat,"Preço do ingrediente 4: %.2f\n",var); /// preço do igrediente
+                printf(file_relat,"Preço do ingrediente 5: %.2f\n",var); /// preço do igrediente
+            }
+            for (i=1; i<=quant.de.pizz; i++)/// colocar a var certa
+            {
+                soma+= tamanho da pizza[i]  + ingrediente1[i] + ingrediente2[i] + ingrediente3[i] + ingrediente4[i] + ingrediente5[i];///mudar as var
+            }
+             printf(file_relat,"O preço final foi de: %.2f", soma);
+        }
+        else
+        {
+            if (pizza == 'gigante')
+                {
+                    printf(file_relat,"Preço da pizza gigante: %.2f\n",); /// preço da pizza
+                }
+                 else if (pizza == 'media')
+                {
+                    printf(file_relat,"Preço da pizza média: %.2f\n",); /// preço da pizza
+                }
+                 else if (pizza == 'pequena')
+                {
+                    printf(file_relat,"Preço da pizza pequena: %.2f\n",); /// preço da pizza
+                }
+
+                printf(file_relat,"Preço do ingrediente 1: %.2f\n",var); /// preço do igrediente
+                printf(file_relat,"Preço do ingrediente 2: %.2f\n",var); /// preço do igrediente
+                printf(file_relat,"Preço do ingrediente 3: %.2f\n",var); /// preço do igrediente
+                printf(file_relat,"Preço do ingrediente 4: %.2f\n",var); /// preço do igrediente
+                printf(file_relat,"Preço do ingrediente 5: %.2f\n",var); /// preço do igrediente
+
+            soma+= tamanho da pizza  + ingrediente1 + ingrediente2 + ingrediente3 + ingrediente4 + ingrediente5; ///mudar as var
+
+            printf(file_relat,"O preço final foi de: %.2f", soma);
+        }
+
+
+
+
+        fwrite(al,sizeof(TAluno),1,file_relat);/// parametro .subs TAluno
+        fclose(file_relat);
+    }
+}

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1532976917 source:d:\ifnmg\professor\disciplinas\2018-1\aeds i\exercícios\aula 10 - arquivos\alunomanipulação\aluno.c
+	<stdio.h>
+	<stdlib.h>
+	"aluno.h"
+
+1532975335 d:\ifnmg\professor\disciplinas\2018-1\aeds i\exercícios\aula 10 - arquivos\alunomanipulação\aluno.h
+
+1532978748 source:c:\users\Éricles\documents\faculdade\ifnmg\aeds1\meteriais aula\arquivo\alg prontos\aluno\alunomanipulação\aluno.c
+	<stdio.h>
+	<stdlib.h>
+	"aluno.h"
+
+1532978860 c:\users\Éricles\documents\faculdade\ifnmg\aeds1\meteriais aula\arquivo\alg prontos\aluno\alunomanipulação\aluno.h
+
+1532978846 source:c:\users\Éricles\documents\faculdade\ifnmg\aeds1\meteriais aula\arquivo\alg prontos\aluno\alunomanipulação\main.c
+	<stdio.h>
+	<stdlib.h>
+	"aluno.h"
+

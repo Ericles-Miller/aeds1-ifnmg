@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1532375840 source:d:\ifnmg\professor\disciplinas\2018-1\aeds i\exercícios\aula 9 - estrutura de dados\banco\conta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conta.h"
+
+1532378568 d:\ifnmg\professor\disciplinas\2018-1\aeds i\exercícios\aula 9 - estrutura de dados\banco\conta\conta.h
+	"cliente.h"
+
+1532378209 d:\ifnmg\professor\disciplinas\2018-1\aeds i\exercícios\aula 9 - estrutura de dados\banco\conta\cliente.h
+
+1532377031 source:d:\ifnmg\professor\disciplinas\2018-1\aeds i\exercícios\aula 9 - estrutura de dados\banco\conta\cliente.c
+	<stdio.h>
+	"cliente.h"
+
+1532377031 source:d:\ifnmg\professor\disciplinas\2018-1\aeds i\exercícios\aula 9 - estrutura de dados\banco - cliente\conta\cliente.c
+	<stdio.h>
+	"cliente.h"
+
+1532378209 d:\ifnmg\professor\disciplinas\2018-1\aeds i\exercícios\aula 9 - estrutura de dados\banco - cliente\conta\cliente.h
+
+1532956270 source:d:\ifnmg\professor\disciplinas\2018-1\aeds i\exercícios\aula 9 - estrutura de dados\banco - cliente\conta\conta.c
+	<stdio.h>
+	"conta.h"
+	"cliente.h"
+
+1532956851 d:\ifnmg\professor\disciplinas\2018-1\aeds i\exercícios\aula 9 - estrutura de dados\banco - cliente\conta\conta.h
+	"cliente.h"
+
+1532956848 source:d:\ifnmg\professor\disciplinas\2018-1\aeds i\exercícios\aula 9 - estrutura de dados\banco - cliente\conta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conta.h"
+
